@@ -18,28 +18,7 @@ This project is a simple **User Management System** built with **React-JS**. It 
 - **localStorage** for persisting user data
 
 
-## How to Use
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/harver2001/RBAC-VRV-Security
-
-2. **Install dependencies:**
-
-   - (Assuming you have Node.js and npm installed)
-   - Run the below command to install all the required dependencies.
-   
-    npm install
-
-2. **Start the application:**
-
-   - Run the below command to start the project locally.
-   
-    npm start
-
-
-## Interacting with the Application
 
 - Initally create a role that can eventually be assigned to any User.
 - Adding Users: Click on the designated "Add User" button to add a new user.
